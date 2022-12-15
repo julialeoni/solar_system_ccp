@@ -68,7 +68,7 @@ for (p, i) in zip(objects, range(N)):
 # animation function
 n = 1
 while True:
-    vp.rate(365)
+    vp.rate(200)
     date = now + dt.timedelta(days=n)  # increasing date day by day
     for (p, b, t) in zip(objects, balls, tracks):  # relocating objects
         x, y, z = locate(p, date)
