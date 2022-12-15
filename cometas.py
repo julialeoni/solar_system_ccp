@@ -28,25 +28,4 @@ def create_halley():
     halley.name = 'Halley'
     return halley
 
-def create_ztf():   #https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=1003845
-    ztf = ephem.HyperbolicBody()
-    ztf_epoch = '2022-07-29'
-    ztf_epoch_p = '2023-02-01'
-    ztf._inc = 109.17
-    ztf._Om = 302.5537
-    ztf._om = 145.8149
-    ztf._e = 1.000267
-    ztf._q = 1.112253
-    ztf.name = 'C/2022 E3 ZTF'
-    return ztf
-
-'''_HyperbolicBody elements:
-_epoch — Equinox year for _inc, _Om, and _om
-_epoch_p — Epoch of perihelion
-_inc — Inclination (°)
-_Om — Longitude of ascending node (°)
-_om — Argument of perihelion (°)
-_e — Eccentricity
-_q — Perihelion distance (AU)
-_g, _k — Magnitude model coefficients
-_size — Angular size in arcseconds at 1 AU'''
+   
