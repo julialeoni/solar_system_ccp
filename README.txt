@@ -1,10 +1,10 @@
 Desenvolvido por:
 João Pedro Ferreira do Nascimento Lucas 		nºUSP: 11802291
-João Pedro Santos Lourenço 				        nºUSP: 13782522
-Julia Souto Leoni 						        nºUSP: 13386270
-Marcus Vinicius Novaes Flori				    nºUSP: 13836921
-Pedro Ruiz Pereira Lopes 					    nºUSP: 13725611
-Raul de Assis Santos 						    nºUSP: 13748892
+João Pedro Santos Lourenço 				          nºUSP: 13782522
+Julia Souto Leoni 						              nºUSP: 13386270
+Marcus Vinicius Novaes Flori				        nºUSP: 13836921
+Pedro Ruiz Pereira Lopes 					          nºUSP: 13725611
+Raul de Assis Santos 						            nºUSP: 13748892
 
 
 Disciplina:
