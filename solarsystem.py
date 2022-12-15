@@ -13,7 +13,7 @@ import cometas
 sun = vp.sphere(pos=vp.vector(0, 0, 0), radius=0.1, texture='images/sun.jpg')
 
 # creating the list of objects to be followed
-objects = [ephem.Mercury(), ephem.Venus(), ephem.Sun(), ephem.Mars(), ephem.Jupiter(), ephem.Saturn(), ephem.Uranus(), ephem.Neptune(), cometas.create_halley(), cometas.create_ztf()]
+objects = [ephem.Mercury(), ephem.Venus(), ephem.Sun(), ephem.Mars(), ephem.Jupiter(), ephem.Saturn(), ephem.Uranus(), ephem.Neptune(), cometas.create_halley()]
 
 N = len(objects)
 now = dt.datetime.now()
